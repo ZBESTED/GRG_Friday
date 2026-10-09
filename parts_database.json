@@ -1,0 +1,101 @@
+{
+    "UPPER MODULE": {
+        "image_path": "images/UPPER.png",
+        "parts": [
+            {
+                "id": "715010063",
+                "name": "FLAT BELT",
+                "default_qty": 2,
+                "image_path": "images/FLAT_BELT_UPPER.png",
+                "components": []
+            },
+            {
+                "id": "726010519001",
+                "name": "NOTE TOP PLATE",
+                "default_qty": 1,
+                "image_path": "images/NOTE_TOP_PLATE.png",
+                "components": []
+            },
+            {
+                "id": "714070042",
+                "name": "IMPELLER",
+                "default_qty": 7,
+                "image_path": "images/IMPELLER.png",
+                "components": [
+                    {
+                        "id": "726010801",
+                        "name": "IMPELLER BUCKLE",
+                        "qty_per_set": 1
+                    },
+                    {
+                        "id": "714110030",
+                        "name": "IMPELLER1",
+                        "qty_per_set": 1
+                    },
+                    {
+                        "id": "714110031",
+                        "name": "IMPELLER2",
+                        "qty_per_set": 1
+                    }
+                ]
+            },
+            {
+                "id": "714070042",
+                "name": "NOTE FEEDER RUBBER",
+                "default_qty": 6,
+                "image_path": "images/NOTE_FEEDER_RUBBER.png",
+                "components": []
+            },
+            {
+                "id": "714070026",
+                "name": "RUBBER BAND",
+                "default_qty": 2,
+                "image_path": "images/RUBBER_BAND.png",
+                "components": []
+            },
+            {
+                "id": "729010134001",
+                "name": "BLADE",
+                "default_qty": 2,
+                "image_path": "images/BLADE.png",
+                "components": []
+            }
+        ]
+    },
+    "LOWER MODULE": {
+        "image_path": "images/LOWER.png",
+        "parts": [
+            {
+                "id": "715010067",
+                "name": "FLAT BELT",
+                "default_qty": 2,
+                "image_path": "images/FLAT_BELT_UPPER.png",
+                "components": []
+            }
+        ]
+    },
+    "NE": {
+        "image_path": "images/NE.png",
+        "parts": [
+            {
+                "id": "715010166",
+                "name": "TAPE(NO BLACK)",
+                "default_qty": 2,
+                "image_path": "images/TAPE_NO_BLACK.png",
+                "components": []
+            }
+        ]
+    },
+    "CT": {
+        "image_path": "images/CT.png",
+        "parts": [
+            {
+                "id": "",
+                "name": "FLAT BELT",
+                "default_qty": 2,
+                "image_path": "images/FLAT_BELT_CT.png",
+                "components": []
+            }
+        ]
+    }
+}
